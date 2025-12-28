@@ -25,34 +25,46 @@ This is a simple e-commerce web application developed using Laravel for selling 
 
 ---
 ## Screenshots
-Admin Panel
+Admin Module
 
+Admin Panel
 ![Admin Panel](admin_dashboard.png)
 
+Product Management
 ![Product Management](add_product_details.png)
 
+Category Manahgement
 ![Category Manahgement](add_category.png)
 
 
 
 User Module
 
+Home Page
 ![Home Page](home.png)
 
+Shop By Category/Branch(Filter)
 ![Shop By Category/Branch(Filter)](shop.png)
 
+User Dashboard
 ![User Dashboard](user_dashboard.png)
 
+My Profile
 ![My Profile](my_profile.png)
 
+Change Password
 ![Change Password](<change password.png>)
 
+Shipping Form
 ![Shipping Form](shipping_details.png)
 
+About Us
 ![About Us](aboutus_page.png)
 
+Contact Us
 ![Contact Us](contactus_page.png)
 
+Request For Product
 ![Request For Product](request_for_product.png)
 
 
