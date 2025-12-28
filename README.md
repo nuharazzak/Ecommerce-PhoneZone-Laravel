@@ -34,7 +34,7 @@ Product Management
 ![Product Management](add_product_details.png)
 
 Category Manahgement
-![Category Manahgement](add_category.png)
+![Category Management](add_category.png)
 
 
 
