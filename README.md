@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Ecommerce-PhoneZone-Laravel-Project
 =======
 This is a simple e-commerce web application developed using Laravel for selling mobile phones, laptops, and related accessories. The project includes an admin panel with product, order, and user management, along with user authentication, a main home page, add-to-cart functionality, and a complete order and checkout process.
