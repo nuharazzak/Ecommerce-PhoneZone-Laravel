@@ -11,7 +11,7 @@ This is a simple e-commerce web application developed using Laravel for selling 
 - Product listing and product details
 - Add to cart functionality
 - Order management
-- Admin panel (basic)
+- Admin panel 
 - Responsive design
 
 ---
